@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/Baker_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/Brainy_Smurf.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/Clumsy_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Farmer_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Smurfette.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/Grouchy_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/Gutsy_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/Handy_Smurf.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Hefty_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/Jokey_Smurf.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/Painter_Smurf.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/Papa_Smurf.png",
+      "clicked": false
+    }
+  ]
+  
